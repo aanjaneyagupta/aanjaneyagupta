@@ -17,74 +17,74 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="38" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="38" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="38" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="35" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="38" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="38" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="38" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="38" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="38" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="38" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="38" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="38" alt="express logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="38" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="38" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="38" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="35" alt="dot-net logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="38" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="38" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="35" alt="googlecloud logo"  />
+  <img src="https://skillicons.dev/icons?i=gcp" height="38" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="35" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="38" alt="spring logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="38" alt="vercel logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="38" alt="vite logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="38" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="38" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="38" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="38" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="38" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="35" alt="angularjs logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="38" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="38" alt="postman logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=replit" height="35" alt="replit logo"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="38" alt="replit logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="35" alt="visualstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="38" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="35" alt="powershell logo"  />
+  <img src="https://skillicons.dev/icons?i=powershell" height="38" alt="powershell logo"  />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aanjaneya-gupta/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="discord logo"  />
 </div>
 
 ###
