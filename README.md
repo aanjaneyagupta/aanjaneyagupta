@@ -16,7 +16,7 @@
 
 ###
 
-<div align="center" >
+<div align="center" style="margin-right:30px;" >
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
