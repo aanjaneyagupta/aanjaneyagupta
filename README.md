@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc2NDQ4NjksIm5iZiI6MTczNzY0NDU2OSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIzVDE1MDI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU2NDY5MGQ0NmY1ODBiMDAwOGQ4ZmE0Mzc3ZDJlOTRjNjY5MDUwMzIyZWM0ZjExMGFjOTJjY2NmYjQ3M2YzYTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.PVuh6-KalMcUZ6IfzF7NeY4hnyjYBMzkwrcdUD7YDvM"  />
+  <img height="250" src="./banner.gif"  />
 </div>
 
 ###
@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="200" src="./banner.gif"  />
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 
 ###
 
